@@ -12,7 +12,7 @@
 	<li><strong>Templates</strong>: to-dos.html</li>
 </ul>
 
-<p>&nbsp;<strong>Requirements</strong>: pip3 ,python3, pipenv ,django=2.1</p>
+<p>&nbsp;<strong>Requirements</strong>: pip3 ,python3, pipenv ,django</p>
 
 
 
